@@ -1,0 +1,19 @@
+body {
+    font-size: 4em;
+    font-style: Verdana;
+    text-align: left;
+    line-height: 3em;   
+}
+p2{
+    font-size: 2em;
+    font-style: italic;   
+    
+}
+.card-img{
+    margin: 0;
+    float: center;
+    position: absolute;
+  left: 3px;
+  top: 0px;
+  z-index: -1;
+}
